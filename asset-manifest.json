@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/transport-tracking_demo/static/css/main.9b90c5d5.css",
+    "main.js": "/transport-tracking_demo/static/js/main.e1e49999.js",
+    "index.html": "/transport-tracking_demo/index.html",
+    "main.9b90c5d5.css.map": "/transport-tracking_demo/static/css/main.9b90c5d5.css.map",
+    "main.e1e49999.js.map": "/transport-tracking_demo/static/js/main.e1e49999.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.9b90c5d5.css",
+    "static/js/main.e1e49999.js"
+  ]
+}
