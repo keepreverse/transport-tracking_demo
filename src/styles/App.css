@@ -343,7 +343,7 @@ body {
     display: flex;
     flex-direction: column;
     align-items: center;
-    width: clamp(2rem, 4vmin, 2.5rem);           /* от 32px до 40px */
+    width: clamp(4rem, 4.5vmin, 5rem);
 }
 
 .mini-point-icon {
@@ -494,7 +494,7 @@ body {
     flex-direction: column;
     align-items: center;
     text-align: center;
-    width: clamp(3rem, 3.5vmin, 4rem);
+    width: clamp(4rem, 4vmin, 5rem);
     cursor: pointer;
     z-index: 3;
 }
