@@ -1,13 +1,13 @@
 {
   "files": {
-    "main.css": "/transport-tracking_demo/static/css/main.9b90c5d5.css",
-    "main.js": "/transport-tracking_demo/static/js/main.e1e49999.js",
+    "main.css": "/transport-tracking_demo/static/css/main.0ab8b4ea.css",
+    "main.js": "/transport-tracking_demo/static/js/main.0cd261a7.js",
     "index.html": "/transport-tracking_demo/index.html",
-    "main.9b90c5d5.css.map": "/transport-tracking_demo/static/css/main.9b90c5d5.css.map",
-    "main.e1e49999.js.map": "/transport-tracking_demo/static/js/main.e1e49999.js.map"
+    "main.0ab8b4ea.css.map": "/transport-tracking_demo/static/css/main.0ab8b4ea.css.map",
+    "main.0cd261a7.js.map": "/transport-tracking_demo/static/js/main.0cd261a7.js.map"
   },
   "entrypoints": [
-    "static/css/main.9b90c5d5.css",
-    "static/js/main.e1e49999.js"
+    "static/css/main.0ab8b4ea.css",
+    "static/js/main.0cd261a7.js"
   ]
 }
